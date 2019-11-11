@@ -77,9 +77,9 @@ g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
            [0, 0, 0, 0, 0, 2, 0, 1, 6], 
            [8, 11, 0, 0, 0, 0, 1, 0, 7], 
            [0, 0, 2, 0, 0, 0, 6, 7, 0] 
-          ]; 
+          ]
   
-g.dijkstra(0); 
+g.dijkstra(0)
   
 # This code is contributed by Divyanshu Mehta on GeeksforGeeks
 
